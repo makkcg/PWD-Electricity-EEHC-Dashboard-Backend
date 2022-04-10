@@ -1,0 +1,256 @@
+{
+    "col1": [
+        {
+            "word": "عايز أشتري",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "أنا عايز",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "عايز أطلع",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "عايز أعرف",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "عايز أروح",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "عايز أبعت",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "عايز أشحن",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "ليه مفيش",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "أريد الحصول",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "ما هي مدة إستخراج",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "منين أجيب",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "ما هي رسوم",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "كام تكلفة",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "إزاي أروح",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "إزاي",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "ما هي",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "ينفع أطلع",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "أزاي أجيب",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "عايز أشترك في",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "عايز أكلم",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        }
+    ],
+    "col2": [
+        {
+            "word": "خط مكالمات",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "خط مكالمات جديد",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "فرع أو مركز معتمد",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "شريحة مكالمات",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "الباقة",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "رسوم الباقة",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "أشحن علي الطاير",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "بدل فاقد من خط المكالمات",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "شريحة جديدة",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "بدل فاقد",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "استبدل الشريحة",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "خط انترنت ارضي",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "فـوري",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "مصاري",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "خدمة بي",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "باقة انترنت موبايل",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "خدمة الانترنت",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "مودم USB",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "شريحة انترنت جديدة",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "كارت شحن",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "أحول رصيد",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "أغير الباقة",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "ألغي الأشتراك",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "أجدد الأشتراك",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "خدمة العملاء",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "رقم خدمة العملاء",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "اتصال بالأنترنت",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "أسجل الخط بإسمي",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "انترنت منزلي",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        },
+        {
+            "word": "قسائم إلكترونية (E-vouchers)",
+            "pic": "/dictionary/images/image1.png",
+            "vid": "/dictionary/videos/video1.mp4"
+        }
+    ]
+}
